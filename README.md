@@ -1,2 +1,4 @@
 # Scarlet
-Scarlet Searchは分散型検索エンジンのプロトコルとその実装です。
+Scarlet Protocolは分散型検索エンジンのためのプロトコルです。
+## 読む
+- 日本語: [ja.md](ja.md)
